@@ -1,9 +1,9 @@
 def student_details(usn,name,division,age):
     result=(
-        f"Student USN:{usn}\n"
-        f"Student Name:{name}\n"
-        f"Division:{division}\n"
-        f"Age:{age}\n"
+        f"Student USN:{usn}"
+        f"Student Name:{name}"
+        f"Division:{division}"
+        f"Age:{age}"
     )
 if __name__ == "__main__":
     usn="01fe24bca274"
